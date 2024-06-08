@@ -26,3 +26,8 @@ Para ejecutar el análisis de convergencia para los primeros 100 números, simpl
 
 ```bash
 python conjetura_collatz.py
+```
+
+## Novedades
+
+- Ahora el programa tiene la capacidad de generar gráficos para visualizar la convergencia de la conjetura de Collatz. Se han incluido funciones para graficar tanto la convergencia de las secuencias como la relación entre el número inicial y la longitud de la secuencia.
